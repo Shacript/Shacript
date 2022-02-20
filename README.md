@@ -8,6 +8,6 @@
 ## What am i focusing on now ? 🕵️
 👨‍💻 I'm `Fullstack Developer` who focuses on `Web Development` <br /> <br />
 💻 Such a `( HTML5, CSS3, Javascript, PHP, NodeJS, ...)` `( VueJS, React, Laravel, ...)` <br /> <br />
-⚙️ ( Actually it have more but it isn't like to describe something long here ) <br />
+⚙️ ( Actually it have more but it isn't correct to describe something long here ) <br />
 <br /><br />
 📘 Feel free to check [Resume Website](https://shacript.github.io/resume/) to know me more ! <br />
