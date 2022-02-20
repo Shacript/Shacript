@@ -2,4 +2,4 @@
 
 🍃 I'm Shacript ; 👾
 
-🍃 I'm a Fullstack Developer who focuses on Fivem scripts and Web development ! ; 👾
+🍃 I'm a Fullstack Developer who focuses on Web development ! ; 👾
