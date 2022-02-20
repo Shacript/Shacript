@@ -1,3 +1,5 @@
+### 📘 Currently I'm Generation Thailand JUNIOR SOFTWARE DEVELOPER Student !
+
 # Hi Traveler ! 👋
 **Let me introduce myself** <br />
 🎃 `I'm Shacript` <br />
